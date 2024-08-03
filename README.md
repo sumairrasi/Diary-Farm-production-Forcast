@@ -25,11 +25,6 @@ This project focused on forecasting dairy farm production using the Seasonal Aut
    ```
 5. Now openup your localhost 0.0.0.0:8080
 
-<div style="width: 50%; height: auto;">
-  <video width="100%" height="auto" controls>
-    <source src="https://github.com/user-attachments/assets/33d0c94b-1c68-4918-9cd5-08a1879364ef" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+https://github.com/user-attachments/assets/d74c229b-e611-4866-a1b1-bc7eee820d77
 
 

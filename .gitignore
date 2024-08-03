@@ -1,0 +1,8 @@
+env/
+logs/
+research/logs/
+research/monthly_milk_production.csv/
+research/trials.ipynb
+src/mlproject.egg-info/
+__pycache__/
+artifacts/

@@ -1,0 +1,11 @@
+COLUMNS:
+  Date: object
+  Production: int64
+
+
+INDEX_COLUMN:
+  name: Date
+
+
+TARGET_COLUMN:
+  name: Production 

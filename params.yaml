@@ -1,0 +1,9 @@
+SARIMAX:
+  order_p: 1
+  order_d: 1
+  order_q: 0
+  seasonal_order_p: 0
+  seasonal_order_d: 1
+  seasonal_order_q: 1
+  seasonal_order_s: 12
+

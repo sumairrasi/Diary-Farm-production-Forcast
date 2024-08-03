@@ -9,5 +9,18 @@ This project focused on forecasting dairy farm production using the Seasonal Aut
 * **Forecasting** : Scripts to generate future production forecasts based on the trained SARIMAX model.
 * **Visualization** : Tools to visualize historical data, model performance, and forecasted production levels.
 
+**Steps:**
 
-Steps:
+1. Clone this repo
+2. Create a virtual environment
+3. Install the requirements
+
+   ```
+   pip install -r requirements.txt
+   ```
+4. Run this
+
+   ```
+   python app.py
+   ```
+5. Now openup your localhost 0.0.0.0:8080

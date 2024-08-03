@@ -25,5 +25,5 @@ This project focused on forecasting dairy farm production using the Seasonal Aut
    ```
 5. Now openup your localhost 0.0.0.0:8080
 
+https://github.com/user-attachments/assets/33d0c94b-1c68-4918-9cd5-08a1879364ef
 
-https://github.com/user-attachments/assets/eaa06bcb-7188-4880-972d-b955358914ee

@@ -24,5 +24,3 @@ This project focused on forecasting dairy farm production using the Seasonal Aut
    python app.py
    ```
 5. Now openup your localhost 0.0.0.0:8080
-
-uri : 021891615377.dkr.ecr.ap-southeast-2.amazonaws.com/mlproject

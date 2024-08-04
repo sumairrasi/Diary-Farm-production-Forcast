@@ -11,4 +11,5 @@ types-pyYAML
 Flask
 Flask-Cors
 statsmodels
+plotly
 -e.

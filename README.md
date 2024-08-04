@@ -24,3 +24,5 @@ This project focused on forecasting dairy farm production using the Seasonal Aut
    python app.py
    ```
 5. Now openup your localhost 0.0.0.0:8080
+
+https://github.com/user-attachments/assets/44d5c30d-2b81-4b39-97d5-e3d9a9a01cf0

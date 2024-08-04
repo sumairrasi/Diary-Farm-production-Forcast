@@ -24,3 +24,8 @@ This project focused on forecasting dairy farm production using the Seasonal Aut
    python app.py
    ```
 5. Now openup your localhost 0.0.0.0:8080
+6. For training pipeline run. Please change the required parameters and data values in `params.yaml` and `schema.yaml`
+
+   ```
+   python main.py
+   ```
